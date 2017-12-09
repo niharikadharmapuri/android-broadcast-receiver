@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Application22</string>
+    <string name="permlab_deadlyActivity">It does something</string>
+    <string name="permdesc_deadlyActivity">Its a dangerous level permission.</string>
+</resources>
